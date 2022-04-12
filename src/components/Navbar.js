@@ -17,10 +17,10 @@ export default function Navbar() {
         {/* links for md++ display */}
         <div className="hidden md:flex">
           <ul className='flex space-x-8'>
-            <li><a href="/" className='hover:text-[#f7bbb0]  transition transition-all'>Home</a></li>
-            <li><a href="/" className='hover:text-[#f7bbb0]  transition transition-all'>Two</a></li>
-            <li><a href="/" className='hover:text-[#f7bbb0]  transition transition-all'>Three</a></li>
-            <li><a href="/" className='hover:text-[#f7bbb0]  transition transition-all'>Four</a></li>
+            <li><a href="/" className='hover:text-[#f7bbb0]  transition '>Home</a></li>
+            <li><a href="/" className='hover:text-[#f7bbb0]  transition '>Two</a></li>
+            <li><a href="/" className='hover:text-[#f7bbb0]  transition '>Three</a></li>
+            <li><a href="/" className='hover:text-[#f7bbb0]  transition '>Four</a></li>
           </ul>
         </div>
         {/* hamburger */}
