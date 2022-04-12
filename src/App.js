@@ -7,7 +7,7 @@ import Privacy from './components/Privacy';
 
 function App() {
   return (
-    <div className="font-Poppins bg-[#e6c994]">
+    <div className="font-Poppins bg-[#dabc83]">
       <Navbar />
       <MainCont />
       <Features />

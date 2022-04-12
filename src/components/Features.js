@@ -15,10 +15,10 @@ export default function Features() {
         <div className='wrapper lg-edit-data lg:pl-7'>
 
           <div className='data mt-4'>
-            <h1 className='font-bold text-xl text-center md:text-left mt-6 lg:m-0 mb-2'>Features</h1>
-            <h5>/xyz/ uses Deep Learning Algorithms to predict the /.../ It implements various deep learning libraries to build Robust and Efficient Neural Network which can provide you Fast and Accurate Results.</h5>
-            <h1 className='font-bold text-xl  my-2'>Technology Stack of the /NAME/</h1>
-            <ul>
+            <h1 className='font-bold text-xl text-center md:text-left mt-6 lg:m-0 mb-2 lg:text-3xl lg:mb-3'>Features</h1>
+            <h5 className='lg:text-[17px]'>/xyz/ uses Deep Learning Algorithms to predict the /.../ It implements various deep learning libraries to build Robust and Efficient Neural Network which can provide you Fast and Accurate Results.</h5>
+            <h1 className='font-bold text-xl  my-2  text-center md:text-left lg:text-2xl lg:mt-6'>Technology Stack of the /NAME/</h1>
+            <ul className='lg:text-[17px]'>
               <li>Python</li>
               <li>HTML,CSS,JavaScript</li>
               <li>Tailwindcss, React</li>
